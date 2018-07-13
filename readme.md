@@ -16,24 +16,24 @@ The bottom row shows that with the inside-filter, the majority of octree nodes w
 <table>
 	<tr>
 		<td>
-			<img src="clip_box_highlight.jpg" width="300px"/>
+			<img src="./resources/clip_box_highlight.jpg" width="300px"/>
 		</td>
 		<td>
-			<img src="clip_box_inside.jpg" width="300px"/>
+			<img src="./resources/clip_box_inside.jpg" width="300px"/>
 		</td>
 		<td>
-			<img src="clip_box_outside.jpg" width="300px"/>
+			<img src="./resources/clip_box_outside.jpg" width="300px"/>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="clip_box_highlight_octree.jpg" width="300px"/>
+			<img src="./resources/clip_box_highlight_octree.jpg" width="300px"/>
 		</td>
 		<td>
-			<img src="clip_box_inside_octree.jpg" width="300px"/>
+			<img src="./resources/clip_box_inside_octree.jpg" width="300px"/>
 		</td>
 		<td>
-			<img src="clip_box_outside_octree.jpg" width="300px"/>
+			<img src="./resources/clip_box_outside_octree.jpg" width="300px"/>
 		</td>
 	</tr>
 	<tr>
@@ -56,19 +56,19 @@ For box-filters, we've explored basic relational algebraic functions that can be
 <table>
 	<tr>
 		<td>
-			<img src="relalg_highlight.jpg"/>
+			<img src="./resources/relalg_highlight.jpg"/>
 		</td>
 		<td>
-			<img src="relalg_inside_any.jpg"/>
+			<img src="./resources/relalg_inside_any.jpg"/>
 		</td>
 		<td>
-			<img src="relalg_inside_all.jpg"/>
+			<img src="./resources/relalg_inside_all.jpg"/>
 		</td>
 		<td>
-			<img src="relalg_outside_any.jpg"/>
+			<img src="./resources/relalg_outside_any.jpg"/>
 		</td>
 		<td>
-			<img src="relalg_outside_all.jpg"/>
+			<img src="./resources/relalg_outside_all.jpg"/>
 		</td>
 	</tr>
 	<tr>
@@ -89,10 +89,10 @@ A limitation of this approach is that the clip-polygon has to remain relatively 
 <table>
 	<tr>
 		<td>
-			<img src="clip_polygon.jpg"/>
+			<img src="./resources/clip_polygon.jpg"/>
 		</td>
 		<td>
-			<img src="clip_polygon_applied.jpg"/>
+			<img src="./resources/clip_polygon_applied.jpg"/>
 		</td>
 	</tr>
 	<tr>
@@ -136,10 +136,10 @@ We could decrease the width of the cross-section, but in many cases, low point d
 <table>
 	<tr>
 		<td>
-			<img src="heidentor_cross_persp.jpg"/>
+			<img src="./resources/heidentor_cross_persp.jpg"/>
 		</td>
 		<td>
-			<img src="heidentor_cross_ortho.jpg"/>
+			<img src="./resources/heidentor_cross_ortho.jpg"/>
 		</td>
 	</tr>
 	<tr>
@@ -157,26 +157,26 @@ The perspective projection has a high LOD close to the camera, whereas orthograp
 <table>
 	<tr>
 		<td>
-			<img src="retz_persp.jpg"/>
+			<img src="./resources/retz_persp.jpg"/>
 		</td>
 		<td>
-			<img src="retz_ortho.jpg"/>
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<img src="lod_persp.jpg"/>
-		</td>
-		<td>
-			<img src="lod_ortho.jpg"/>
+			<img src="./resources/retz_ortho.jpg"/>
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="lod_persp_lod.jpg"/>
+			<img src="./resources/lod_persp.jpg"/>
 		</td>
 		<td>
-			<img src="lod_ortho_lod.jpg"/>
+			<img src="./resources/lod_ortho.jpg"/>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<img src="./resources/lod_persp_lod.jpg"/>
+		</td>
+		<td>
+			<img src="./resources/lod_ortho_lod.jpg"/>
 		</td>
 	</tr>
 	<tr>
